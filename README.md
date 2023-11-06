@@ -16,4 +16,5 @@ The HotelApp needs to manage various hotel services for guest check-in and check
   - HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
 
 # Class Diagram
-![Blank diagram](https://github.com/IsaiahPhilPangilinan/facadePattern/assets/126074199/42256a86-2c7e-4308-a157-b7f5d666632f)
+![Facade Pattern Diagram](https://github.com/IsaiahPhilPangilinan/facadePattern/assets/126074199/af70f936-d019-483c-ad53-11e5a62f08e0)
+
